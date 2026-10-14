@@ -1,40 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,100:00D7FF&height=200&section=header&text=Hi%20there%2C%20I'm%20Asahi%20Rei%20%E2%99%A1&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:2563EB&height=220&section=header&text=Asahi%20Rei&fontSize=48&fontColor=E0F2FE&animation=twinkling&fontAlignY=38&desc=Full Stack Developer&descSize=18&descAlignY=58" alt="header" />
 
 <p align="center">
   <a href="https://github.com/AsahiRei">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Asahi+Rei+%E2%9C%A8;Developer+%F0%9F%92%96;JavaScript+%7C+TypeScript+%7C+Python;Lifelong+Learner+%F0%9F%8C%B8;Welcome+to+my+kawaii+corner+of+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Asahi+Rei;Developer;Machine+Learning+Learner;Hydro+%2F+Lunar+%2F+Code;Consistency+over+intensity" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsahiRei&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AsahiRei?label=Followers&style=flat&color=58A6FF" alt="followers" />
-  <img src="https://img.shields.io/badge/focus-coding-0096FF?style=flat" alt="focus" />
-  <img src="https://img.shields.io/badge/vibe-kawaii-00D7FF?style=flat" alt="vibe" />
+  <img src="https://komarev.com/ghpvc/?username=AsahiRei&label=Profile%20views&color=2563EB&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AsahiRei?label=Followers&style=flat&color=2563EB" alt="followers" />
+  <img src="https://img.shields.io/badge/focus-building-0B1026?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/theme-columbina-7DD3FC?style=flat" alt="theme" />
 </p>
 
-<img align="right" alt="anime coding girl" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<p align="center">
+  <img width="280" src="https://imgs.search.brave.com/7r8Z4BI-zc_ED8sgfDxlHuPiwDfoiCM3rTZyUjaXiho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E3Lzll/L2FhL2E3OWVhYWMw/NjU3MzRiYzg5NDU1/ZjhlOWE2YjNhZWJm/LmpwZw" alt="Columbina - Moon Maiden" />
+</p>
+<p align="center"><sub>Columbina Hyposelenia — Moon Maiden of Nod-Krai. Artwork via Genshin Impact Wiki / HoYoverse.</sub></p>
 
-### 🌸 About Me
+### 🌙 About Me
 
 ```js
 const asahi = {
   name: "Asahi Rei",
   role: "Developer",
-  location: "Somewhere between coffee & code ☕",
-  loves: ["cute UI", "clean code", "anime", "learning new things"],
-  currentlyLearning: ["TypeScript magic ✨", "Python tricks 🐍"],
-  funFact: "My code works... sometimes on the first try (≧◡≦)"
+  focus: ["Web development", "Mobile Development", "Continuous learning"],
+  currentlyLearning: ["Machine Learning"],
+  principle: "Quiet progress. Steady orbit. Like the moon."
 };
 ```
 
-- 🌱 I'm currently learning & building fun projects
-- 💖 I love turning ideas into cute, working apps
-- 🎧 Coding soundtracks: lo-fi + anime OSTs
-- ✨ Goal: become a dev who makes the web softer & cuter
-- 💬 Ask me about `JavaScript`, `Python`, `HTML/CSS`
+- Building projects around JavaScript and Machine Learning
+- Interested in structured code and reliable systems
+- Currently learning `Machine Learning` fundamentals
+- Open to feedback and collaboration
 
-<br clear="both" />
 
 ### 🛠️ Tech Stack
 
@@ -53,51 +53,40 @@ const asahi = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for ML" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### 📊 GitHub Stats ~ kawaii edition
+### 📊 Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsahiRei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=58A6FF&title_color=58A6FF&text_color=c8c9e5&rank_icon=github" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsahiRei&theme=tokyonight&hide_border=true&background=1A1B27&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c8c9e5&currStreakNum=c8c9e5&dates=c8c9e5&sideLabels=58A6FF" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsahiRei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&icon_color=7DD3FC&title_color=7DD3FC&text_color=C4B5FD&rank_icon=github" alt="stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsahiRei&theme=tokyonight&hide_border=true&background=0B1026&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&sideNums=C4B5FD&currStreakNum=C4B5FD&dates=C4B5FD&sideLabels=7DD3FC" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiRei&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58A6FF&text_color=c8c9e5&langs_count=8" alt="top langs" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsahiRei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=7DD3FC&text_color=C4B5FD&langs_count=8" alt="top langs" />
 </p>
 
-### 🌷 What I'm up to
+### 🌑 Current Focus
 
-- 🔭 Working on: **cute little projects to level up**
-- 🌱 Learning: **TypeScript deep dives + Python projects**
-- 💖 2026 Goal: **contribute more + build a portfolio I love**
-- ⚡ Fun fact: **I debug with snacks nearby (´｡• ω •｡`)**
+- Working on: **structured projects to strengthen fundamentals**
+- Learning: **TypeScript patterns and Python development**
+- 2026 Goal: **maintain a consistent commit cycle and ship a portfolio**
 
-### 🐍 My contributions are getting eaten ~ nom nom
+<p align="center">🌑 🌒 🌓 🌔 🌕</p>
 
-<p align="center">
-  <img src="https://github.com/AsahiRei/AsahiRei/blob/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
-</p>
 
-### 🤍 Connect with me
+### Connect
 
 <p align="center">
   <a href="https://github.com/AsahiRei">
-    <img src="https://img.shields.io/badge/GitHub-AsahiRei-0096FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-AsahiRei-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,100:00D7FF&height=120&section=footer" alt="footer" />
-
-<!-- 
-  ✨ Cute notes for Asahi:
-  1. Snake animation needs the workflow in .github/workflows/snake.yml (already added!)
-     - It runs every 6 hours and pushes to `output` branch
-     - Go to repo Settings > Actions > General > Workflow permissions > Read and write permissions ✅
-  2. If stats show 0, just push more code - they update automatically!
-  3. Want different colors? Try theme=radical, dracula, or nightowl in the stats URLs.
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:2563EB&height=120&section=footer" alt="footer" />
