@@ -75,7 +75,7 @@ const asahi = {
 ### 🌑 Current Focus
 
 - Working on: **structured projects to strengthen fundamentals**
-- Learning: **TypeScript patterns and Python development**
+- Learning: **Machine Learning — models, data, and evaluation**
 - 2026 Goal: **maintain a consistent commit cycle and ship a portfolio**
 
 <p align="center">🌑 🌒 🌓 🌔 🌕</p>
