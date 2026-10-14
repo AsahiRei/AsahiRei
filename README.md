@@ -16,7 +16,6 @@
 <p align="center">
   <img width="280" src="https://imgs.search.brave.com/7r8Z4BI-zc_ED8sgfDxlHuPiwDfoiCM3rTZyUjaXiho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E3Lzll/L2FhL2E3OWVhYWMw/NjU3MzRiYzg5NDU1/ZjhlOWE2YjNhZWJm/LmpwZw" alt="Columbina - Moon Maiden" />
 </p>
-<p align="center"><sub>Columbina Hyposelenia — Moon Maiden of Nod-Krai. Artwork via Genshin Impact Wiki / HoYoverse.</sub></p>
 
 ### 🌙 About Me
 
