@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:2563EB&height=220&section=header&text=Asahi%20Rei&fontSize=48&fontColor=E0F2FE&animation=twinkling&fontAlignY=38&desc=Full Stack Developer&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&height=220&section=header&text=Asahi%20Rei&fontSize=48&fontColor=E0F2FE&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58" alt="header" />
 
 <p align="center">
   <a href="https://github.com/AsahiRei">
@@ -80,6 +80,11 @@ const asahi = {
 
 <p align="center">🌑 🌒 🌓 🌔 🌕</p>
 
+### Contribution Orbit
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsahiRei/AsahiRei/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+</p>
 
 ### Connect
 
@@ -89,4 +94,4 @@ const asahi = {
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:2563EB&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&height=120&section=footer" alt="footer" />
