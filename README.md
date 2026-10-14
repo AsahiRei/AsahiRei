@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="280" src="https://imgs.search.brave.com/7r8Z4BI-zc_ED8sgfDxlHuPiwDfoiCM3rTZyUjaXiho/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E3Lzll/L2FhL2E3OWVhYWMw/NjU3MzRiYzg5NDU1/ZjhlOWE2YjNhZWJm/LmpwZw" alt="Columbina - Moon Maiden" />
+  <img width="280" src="https://imgs.search.brave.com/1CxPHMFqBKLUpIMpFG1hXnzdbzGfhEvCXhixzs4eCBA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TUJpODFrUTdhVTBB/QUFBTS9hbmltZS1j/b21wdXRlci1ndXJs/LmdpZg.gif" alt="Columbina - Moon Maiden" />
 </p>
 
 ### 🌙 About Me
